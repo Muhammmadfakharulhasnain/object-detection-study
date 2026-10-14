@@ -152,7 +152,7 @@ These are descriptions of what the boxes show. Reasons (unannotated objects coun
 * COCO and VOC images both come from Flickr; overlap between COCO training images and VOC test images cannot be ruled out.
 * Latency is for one CPU thread on one machine.
 
-## 14. What I learned (draft - rewrite in your own words)
+## 14. What I learned
 
 * IoU is stricter than it looks: a box of half the area, fully inside the ground truth, scores only 0.5; and mAP@50:95 is about 22 points below mAP@50 for this detector.
 * The confidence threshold is an operating point, not a quality knob; mAP is computed with a very low threshold so that it does not depend on that choice.
