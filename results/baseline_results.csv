@@ -1,0 +1,2 @@
+model,input,conf,nms_iou,images,objects_evaluated,TP,FP,FN,precision,recall,f1,mAP50,mAP50_95
+"YOLOv8n (COCO weights, zero-shot on VOC classes)",640,0.25,0.5,1000,2422,2027,826,395,0.7104801962846127,0.8369116432700248,0.7685308056872037,0.8270951523633256,0.6040885788918735

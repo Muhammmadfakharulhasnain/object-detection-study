@@ -1,0 +1,11 @@
+{
+ "images": 40,
+ "detections_ultralytics_predict": {
+  "clean": 217,
+  "10": 85,
+  "30": 174,
+  "75": 206
+ },
+ "psnr_q10_db": 25.30542497410972,
+ "q10_file_size_vs_original": 0.10198081150352331
+}

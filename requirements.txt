@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+opencv-python-headless
+torch
+torchvision
+ultralytics
+tabulate
+pycocotools      # only for scripts/cross_check.py
+pytest
+nbformat
+nbclient
+ipykernel

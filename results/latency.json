@@ -1,0 +1,30 @@
+{
+ "320": {
+  "forward_ms_mean": 55.14998373333684,
+  "forward_ms_std": 7.885233291111394,
+  "pipeline_ms_mean": 63.9023451111042,
+  "pipeline_ms_std": 29.287441531514354,
+  "n": 90
+ },
+ "480": {
+  "forward_ms_mean": 100.11363348890225,
+  "forward_ms_std": 10.205806673537667,
+  "pipeline_ms_mean": 105.52453076666603,
+  "pipeline_ms_std": 10.662306021666407,
+  "n": 90
+ },
+ "640": {
+  "forward_ms_mean": 178.12475701110895,
+  "forward_ms_std": 15.586810971382128,
+  "pipeline_ms_mean": 186.46393066667312,
+  "pipeline_ms_std": 16.092195240431536,
+  "n": 90
+ },
+ "800": {
+  "forward_ms_mean": 266.97379336666876,
+  "forward_ms_std": 25.60056233549854,
+  "pipeline_ms_mean": 279.0766588777817,
+  "pipeline_ms_std": 26.230010075326376,
+  "n": 90
+ }
+}

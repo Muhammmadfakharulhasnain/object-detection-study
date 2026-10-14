@@ -1,0 +1,25 @@
+{
+ "nms_vs_torchvision_iou0.3": {
+  "identical_images": 1000,
+  "images": 1000
+ },
+ "nms_vs_torchvision_iou0.5": {
+  "identical_images": 1000,
+  "images": 1000
+ },
+ "nms_vs_torchvision_iou0.7": {
+  "identical_images": 1000,
+  "images": 1000
+ },
+ "ultralytics_predict_equivalence": {
+  "images": 60,
+  "identical_detections": 60,
+  "max_box_diff_px": 0.10001220703122726
+ },
+ "pycocotools": {
+  "coco_map50": 0.8270109232544715,
+  "coco_map50_95": 0.605756505741902,
+  "ours_map50": 0.8270951523633256,
+  "ours_map50_95": 0.6040885788918735
+ }
+}

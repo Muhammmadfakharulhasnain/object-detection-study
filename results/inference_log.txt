@@ -1,0 +1,16 @@
+clean_320: 1000 images, 43.7 ms/img forward, 48s total, 87 candidates/img
+clean_480: 1000 images, 102.6 ms/img forward, 108s total, 98 candidates/img
+skip clean_320
+skip clean_480
+clean_640: 1000 images, 199.2 ms/img forward, 255s total, 106 candidates/img
+clean_800: 1000 images, 338.7 ms/img forward, 354s total, 121 candidates/img
+skip clean_320
+skip clean_480
+skip clean_640
+skip clean_800
+blur_sigma3_640: 1000 images, 243.7 ms/img forward, 303s total, 102 candidates/img
+dark_x0.5_640: 1000 images, 194.6 ms/img forward, 205s total, 102 candidates/img
+bright_x1.6_640: 1000 images, 190.3 ms/img forward, 202s total, 109 candidates/img
+low_contrast_x0.4_640: 1000 images, 197.8 ms/img forward, 211s total, 97 candidates/img
+noise_sigma25_640: 1000 images, 178.4 ms/img forward, 205s total, 99 candidates/img
+jpeg_q10_640: 1000 images, 179.7 ms/img forward, 190s total, 100 candidates/img
